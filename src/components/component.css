@@ -1,0 +1,8 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-text {
+  width: 162px;
+  height: 86px;
+}

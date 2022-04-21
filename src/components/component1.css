@@ -1,0 +1,8 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-text {
+  font-size: 3rem;
+  text-align: center;
+}
