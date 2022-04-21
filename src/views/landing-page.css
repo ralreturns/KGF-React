@@ -19,7 +19,7 @@
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url("wheat%20teaching%20field-1500w.png");
+  background-image: url("https://i.imgur.com/bzSkIrS.png");
   background-position: 0% 40%;
 }
 .landing-page-navbar {
@@ -535,7 +535,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: center;
- background-image: url("pool%20party-1500w.gif"); 
+ background-image: url("https://i.imgur.com/WlcXptz.gif"); 
 }
 .landing-page-container25 {
   display: flex;
