@@ -126,7 +126,7 @@ const LandingPage = (props) => {
       </div>
       <div className="landing-page-banner">
         <div className="landing-page-gallery">
-          <h1 className="landing-page-text08">Our portfolio</h1>
+          <h1 className="landing-page-text08">Sneakpeek</h1>
           <span className="landing-page-text09"></span>
           <div className="landing-page-container02">
             <img
