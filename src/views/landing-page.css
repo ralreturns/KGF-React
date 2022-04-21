@@ -535,7 +535,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url("/playground_assets/pool%20party-1500w.gif");
+ /* background-image: url("/playground_assets/pool%20party-1500w.gif"); */
 }
 .landing-page-container25 {
   display: flex;
