@@ -19,7 +19,7 @@
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url("/playground_assets/wheat%20teaching%20field-1500w.png");
+/*  background-image: url("/playground_assets/wheat%20teaching%20field-1500w.png");*/
   background-position: 0% 40%;
 }
 .landing-page-navbar {
